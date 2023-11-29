@@ -1,0 +1,15 @@
+A0100,Introduction to Computer Science,3,Emily Johnson
+B0350,Database Management Systems,6,Michael Smith,Grace Lee
+A0120,Software Engineering Principles,3,David Miller
+A0210,Machine Learning Fundamentals,6,Linda Chen
+A0450,Network Security and Cryptography,6,Paul Davis,Emma Martinez
+B0300,Operating Systems Design,3,Ryan Anderson
+B0180,Web Development Technologies,3,Rebecca Taylor
+A0240,Data Structures and Algorithms,6,John Carter
+A0400,Artificial Intelligence Applications,6,Anna Johnson
+B0110,Mobile App Development,3,Sarah Lewis
+B0290,Computer Networks and Protocols,6,Jason Thompson
+A0220,Computer Graphics and Visualization,6,Michelle Davis
+B0340,Embedded Systems Programming,6,Brian Clark
+A0370,Information Retrieval Systems,6,Thomas Moore
+B0490,Cloud Computing Technologies,3,Alexander White,Lucy Davis
